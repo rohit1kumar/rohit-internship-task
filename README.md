@@ -42,7 +42,7 @@ For development, you will need Node.js and MongoDB
 ## Getting Stated
 
 ### Clone the repository
-    $ git clone https://github.com/rohit1kumar/vouch-interhship-task.git
+    $ git clone https://github.com/rohit1kumar/myapi.git
         
 
 ### Install dependencies
